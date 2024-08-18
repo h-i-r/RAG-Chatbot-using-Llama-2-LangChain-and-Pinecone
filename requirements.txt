@@ -1,0 +1,12 @@
+ctransformers
+sentence-transformers
+pinecone-client
+flask
+langchain
+python-dotenv
+langchain_pinecone
+langchain-community
+langchain_huggingface
+langchain_community
+pinecone_text
+-e .
