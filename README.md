@@ -1,4 +1,4 @@
-# RAG Chatbot using Llama2, LangChain & Pinecone
+# NASA Chatbot 
 
 ---
 ## Description
